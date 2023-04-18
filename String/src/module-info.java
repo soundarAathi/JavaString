@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sound
+ *
+ */
+module String {
+}
